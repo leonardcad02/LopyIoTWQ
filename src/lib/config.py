@@ -1,0 +1,2 @@
+SSID = 'Movistar_87431478'
+PASSWORD = 'al0325al'
